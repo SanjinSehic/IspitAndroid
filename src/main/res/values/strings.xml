@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="Movie">Movie</string>
+    <string name="Sport">Sport</string>
+    <string name="Other">Other</string>
+    <string name="ListOfQuestions">List of question</string>
+    <string name="name">Enter your name:</string>
+    <string name="welcome">Welcome to the quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="back">Back to menu</string>
+</resources>
